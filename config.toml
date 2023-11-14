@@ -1,5 +1,5 @@
 # Be sure to change these!
-base_url = "https://pawroman.github.io/zola-theme-terminimal"
+base_url = "https://blog.savutro.dev"
 title = "Savutros Blog"
 
 # Sass compilation is required
@@ -35,7 +35,7 @@ accent_color = "green"
 background_color = "blue"
 
 # The logo text - defaults to "docs.savutro.dev"
-logo_text = "docs.savutro.dev"
+logo_text = "blog.savutro.dev"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"

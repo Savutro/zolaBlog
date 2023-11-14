@@ -1,12 +1,14 @@
 +++
-title = "Welcome to Terminimal Theme for Zola"
-date = 2019-02-04
+title = "Introduction from Theme [DEV]"
+date = 2023-11-14
 
 [taxonomies]
 tags = ["zola", "theme", "showcase"]
 +++
 
 Welcome to Terminimal! This is a theme showcase post.
+
+<!-- more -->
 
 Code block (using "boron" theme):
 
@@ -62,11 +64,6 @@ Horizontal line:
 
 ---
 
-This is where the post summary ends.
-
-<!-- more -->
-
-The second part follows here.
 
 ## Shortcodes
 

@@ -26,6 +26,14 @@
     </span>
 {% endmacro post_date %}
 
+{% macro dateUpdated(page) %}
+    <span class="post-date">
+        {%- if page.updated != page.date %}
+           :: Edited on: {{ page.updated | date(format="%Y-%m-%d") }}
+        {% endif -%}
+    </span>
+{% endmacro post_date %}
+
 
 {% macro earlier_later(page) %}
     {%- if config.extra.enable_post_view_navigation and page.lower or page.higher %}
@@ -60,7 +68,7 @@
 {% macro header(page) %}
     <h1 class="post-title"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h1>
     <div class="post-meta-inline">
-        {{ post_macros::date(page=page) }}
+        {{ post_macros::date(page=page) }} {{ post_macros::dateUpdated(page=page)}}
     </div>
 
     {{ post_macros::tags(page=page) }}

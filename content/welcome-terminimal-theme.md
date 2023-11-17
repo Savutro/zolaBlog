@@ -1,9 +1,15 @@
 +++
-title = "Introduction from Theme [DEV]"
-date = 2023-11-14
+title = ""
+description = ""
+date = 2023-01-01T01:00:00Z
+updated = 2023-01-01T01:00:00Z
+draft = true
+in_search_index = false
 
 [taxonomies]
-tags = ["zola", "theme", "showcase"]
+tags = ["undefined"]
+
+[extra]
 +++
 
 Welcome to Terminimal! This is a theme showcase post.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Savutros Blog</title>
+    <link href="https://blog.savutro.dev/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://blog.savutro.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-17T00:00:00+00:00</updated>
+    <id>https://blog.savutro.dev/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Welcome to my journey!</title>
+        <published>2023-11-17T00:00:00+00:00</published>
+        <updated>2023-11-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://blog.savutro.dev/17-11-23-first-post/" type="text/html"/>
+        <id>https://blog.savutro.dev/17-11-23-first-post/</id>
+        
+        <summary type="html">&lt;h4 id=&quot;what-is-the-purpose-of-this-site&quot;&gt;What is the purpose of this site?&lt;&#x2F;h4&gt;
+&lt;p&gt;Well if you&#x27;re reading this you&#x27;re at least somehow interested in &lt;strong&gt;IT&lt;&#x2F;strong&gt; and &lt;strong&gt;coding&lt;&#x2F;strong&gt;. The purpose of this blog is to document my journey and maybe help someone out by sharing some insight.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

@@ -1,5 +1,5 @@
 # Be sure to change these!
-base_url = "https://savutro.github.io/zolaBlog/"
+base_url = "https://blog.savutro.dev"
 title = "Savutros Blog"
 
 # Sass compilation is required
